@@ -1,0 +1,2 @@
+# UpTaskNodeJS
+Usando ORM Sequalize
